@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Codespace for SP500!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
